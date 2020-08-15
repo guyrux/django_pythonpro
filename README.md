@@ -5,3 +5,5 @@
 [![Python 3](https://pyup.io/repos/github/guyrux/django_pythonpro/python-3-shield.svg)](https://pyup.io/repos/github/guyrux/django_pythonpro/)
 
 Este projeto faz parte do Curso do Professor Renzo no [PythonPro](https://www.python.pro.br/).
+
+Aplicação está disponível em (<https://pyprodjangosuto.herokuapp.com/>).
